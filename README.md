@@ -1,5 +1,5 @@
 # RobustPatterns
-Lattice, PDE and transfer matrix code to study robust patterning, supporting the paper 'Information bounds the robustness of self-organized systems' by N. Romeo, D.G. Martin, M. Scandolo, M. Fruchart, E. M. Munro, V. Vitelli.
+Lattice, PDE and transfer matrix code to study robust patterning, supporting the paper 'Information bounds the robustness of self-organized systems' by N. Romeo, D.G. Martin, M. Scandolo, M. Fruchart, E. M. Munro, V. Vitelli, <https://arxiv.org/abs/2511.01682>.
 
 
 The lattice simulations (in `./DIM` and `./wavepinning`) use a tau-leaping scheme implemented in `julia` to simulate microscopic particle dynamics. The `julia` package manager can run the environement in `aim1d`.
